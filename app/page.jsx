@@ -65,8 +65,8 @@ export default function Home() {
             La<span className='text-yellow-300'>bo</span>ro
           </h1>
           <h2 className=' relative text-white text-lg lg:text-2xl text-md tracking-wide  lg:w-1/3 '>
-            "Premier Ticketing and Events Hub for Music, Art Festivals, and Rave
-            Experiences"
+            Premier Ticketing and Events Hub for Music, Art Festivals, and Rave
+            Experiences
           </h2>
           <div className='py-6'>
             <button className=' relative p-4 rounded-full border-white text-white hover:bg-white hover:text-black hover:duration-700  border-2'>
