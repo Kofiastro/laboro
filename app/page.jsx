@@ -115,7 +115,7 @@ export default function Home() {
               </div>
               {/* 4 */}
               <div className=' relative group px-32 py-12 transition-all hover:scale-105 duration:300 '>
-                <Image fill src={'/tick/tick3.jpeg'} className='rounded-lg' />
+                <Image fill src={'/tick/tick3.jpeg'} className='rounded-lg' alt='tickets' />
                 <div className='absolute bg-opacity-100 bg-white border-b-2 rounded-b-lg px-4 p-2 bottom-0 right-0 left-0 group-hover:opacity-100  duration-500'>
                   <p className='text-red '>Afrochella</p>
                 </div>
