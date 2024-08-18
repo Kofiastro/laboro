@@ -1,4 +1,4 @@
-import { luckyGame } from "./ui/font";
+import { luckyGame} from "./ui/font";
 import "./globals.css";
 
 export const metadata = {

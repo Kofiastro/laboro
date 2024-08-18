@@ -14,7 +14,7 @@ export default function Home() {
                 height={109.92}
                 alt='logo'
               />
-              <div className='hidden items-baseline  md:hidden lg:flex lg:gap-x-8 md:font-medium   '>
+              <div className='hidden items-baseline  md:hidden lg:flex lg:gap-x-8 md:font-medium'>
                 <a
                   href='#'
                   className='px-4 py-2 hover:bg-yellow-300 hover:drop-shadow-sm   hover:border-gray-300  hover:rounded-lg  hover:duration-700'
@@ -217,7 +217,7 @@ export default function Home() {
           {/* 1 */}
           <div className='bg-gray-100 p-4'>
             <iframe
-              class=' aspect-video md:aspect-square lg:h-[400px] lg:w-[800px] rounded-lg'
+              className=' aspect-video md:aspect-square lg:h-[400px] lg:w-[800px] rounded-lg'
               src='https://www.youtube.com/embed/LpzUpTwIp10'
             ></iframe>
           </div>
